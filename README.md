@@ -3,7 +3,7 @@ By: Rodrigo Llaguno C.
 ***
 
 ### **src**: Contains all ROS2 packages
-  - courseworks_1: Mini Challenge 1
+  - courseworks: Mini Challenge 1
   - courseworks_2: Mini Challenge 2
   - msgs: Messages Package
 
