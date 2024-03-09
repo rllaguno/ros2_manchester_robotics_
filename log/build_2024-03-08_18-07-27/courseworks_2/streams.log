@@ -1,0 +1,27 @@
+[2.741s] Invoking command in '/ros2_ws/src/courseworks_2': PYTHONPATH=/ros2_ws/build/courseworks_2/prefix_override:/ros2_ws/install/courseworks_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/courseworks_2 build --build-base /ros2_ws/build/courseworks_2/build install --record /ros2_ws/build/courseworks_2/install.log --single-version-externally-managed
+[3.538s] running egg_info
+[3.542s] writing ../../build/courseworks_2/courseworks_2.egg-info/PKG-INFO
+[3.544s] writing dependency_links to ../../build/courseworks_2/courseworks_2.egg-info/dependency_links.txt
+[3.545s] writing entry points to ../../build/courseworks_2/courseworks_2.egg-info/entry_points.txt
+[3.547s] writing requirements to ../../build/courseworks_2/courseworks_2.egg-info/requires.txt
+[3.547s] writing top-level names to ../../build/courseworks_2/courseworks_2.egg-info/top_level.txt
+[3.553s] reading manifest file '../../build/courseworks_2/courseworks_2.egg-info/SOURCES.txt'
+[3.556s] writing manifest file '../../build/courseworks_2/courseworks_2.egg-info/SOURCES.txt'
+[3.556s] running build
+[3.556s] running build_py
+[3.557s] copying courseworks_2/reconstruction.py -> /ros2_ws/build/courseworks_2/build/lib/courseworks_2
+[3.558s] running install
+[3.559s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.560s]   warnings.warn(
+[3.560s] running install_lib
+[3.567s] copying /ros2_ws/build/courseworks_2/build/lib/courseworks_2/reconstruction.py -> /ros2_ws/install/courseworks_2/lib/python3.10/site-packages/courseworks_2
+[3.570s] byte-compiling /ros2_ws/install/courseworks_2/lib/python3.10/site-packages/courseworks_2/reconstruction.py to reconstruction.cpython-310.pyc
+[3.573s] running install_data
+[3.575s] running install_egg_info
+[3.582s] removing '/ros2_ws/install/courseworks_2/lib/python3.10/site-packages/courseworks_2-0.0.0-py3.10.egg-info' (and everything under it)
+[3.586s] Copying ../../build/courseworks_2/courseworks_2.egg-info to /ros2_ws/install/courseworks_2/lib/python3.10/site-packages/courseworks_2-0.0.0-py3.10.egg-info
+[3.592s] running install_scripts
+[3.670s] Installing reconstruction script to /ros2_ws/install/courseworks_2/lib/courseworks_2
+[3.671s] Installing signal_generator script to /ros2_ws/install/courseworks_2/lib/courseworks_2
+[3.672s] writing list of installed files to '/ros2_ws/build/courseworks_2/install.log'
+[3.747s] Invoked command in '/ros2_ws/src/courseworks_2' returned '0': PYTHONPATH=/ros2_ws/build/courseworks_2/prefix_override:/ros2_ws/install/courseworks_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/courseworks_2 build --build-base /ros2_ws/build/courseworks_2/build install --record /ros2_ws/build/courseworks_2/install.log --single-version-externally-managed
