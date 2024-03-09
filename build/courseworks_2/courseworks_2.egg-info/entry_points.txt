@@ -1,4 +1,0 @@
-[console_scripts]
-reconstruction = courseworks_2.reconstruction:main
-signal_generator = courseworks_2.signal_generator:main
-
