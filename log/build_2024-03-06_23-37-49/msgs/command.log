@@ -1,4 +1,0 @@
-Invoking command in '/ros2_ws/build/msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ros2_ws/install/courseworks_2:/opt/ros/humble /usr/bin/cmake --build /ros2_ws/build/msgs -- -j16 -l16
-Invoked command in '/ros2_ws/build/msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ros2_ws/install/courseworks_2:/opt/ros/humble /usr/bin/cmake --build /ros2_ws/build/msgs -- -j16 -l16
-Invoking command in '/ros2_ws/build/msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ros2_ws/install/courseworks_2:/opt/ros/humble /usr/bin/cmake --install /ros2_ws/build/msgs
-Invoked command in '/ros2_ws/build/msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ros2_ws/install/courseworks_2:/opt/ros/humble /usr/bin/cmake --install /ros2_ws/build/msgs
